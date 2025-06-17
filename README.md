@@ -1,52 +1,61 @@
-<h1 align="center">Hi, I'm Rasid Raja Khan 👋</h1>
-<h3 align="center">🚀 MERN Stack Developer | Java Enthusiast | DevOps Explorer</h3>
+<h1 align="center">Rasid Raja Khan</h1>
+<h3 align="center">Building Scalable Web Apps with MERN | Java Backend | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=Building+Scalable+Web+Apps;Solving+DSA+on+LeetCode;Deploying+on+AWS+%26+Docker;Exploring+CI%2FCD+Pipelines;Learning+and+Collaborating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Designing+Scalable+Web+Apps;Implementing+CI%2FCD+Workflows;Building+Robust+APIs+with+Express.js;Optimizing+MongoDB+and+MySQL;Practicing+DSA+on+LeetCode" alt="Typing animation" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <!-- Static 3D-style icons -->
-  <img src="https://raw.githubusercontent.com/your-username/assets/main/js-3d-icon.png" alt="JavaScript" width="50px"/>
-  <img src="https://raw.githubusercontent.com/your-username/assets/main/react-3d-icon.png" alt="ReactJS" width="50px"/>
-  <img src="https://raw.githubusercontent.com/your-username/assets/main/nodejs-3d-icon.png" alt="Node.js" width="50px"/>
-  <img src="https://raw.githubusercontent.com/your-username/assets/main/docker-3d-icon.png" alt="Docker" width="50px"/>
-  <img src="https://raw.githubusercontent.com/your-username/assets/main/aws-3d-icon.png" alt="AWS" width="50px"/>
-</p>
-
-### ⚙️ Quick Skill Badges
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,express,mongodb,java,aws,docker,git,linux&theme=light)](https://skills.thijs.gg)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanrasidraja&show_icons=true&theme=radical" width="45%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanrasidraja&layout=compact&theme=radical" width="45%" alt="Top languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧑‍💻 Core Competencies
+
+- Develop full-stack web applications using React.js, Node.js, Express.js, and MongoDB  
+- Implement scalable backend systems with RESTful APIs and Java  
+- Create responsive, component-based front-end UIs with React.js, HTML, and CSS  
+- Integrate MySQL and MongoDB for efficient data operations and management  
+- Automate deployment pipelines using Docker, AWS, Netlify, Vercel, and CI/CD tools  
+- Maintain code integrity using Git and streamline workflows in Linux environments  
+- Solve data structure and algorithm problems to improve computational thinking  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rashid-r-k-6b6aa5173/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/RasidKhan123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-  <a href="mailto:khanrasidrajakhan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=khanrasidraja&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanrasidraja&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting! Let's build something amazing together.**
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashid-r-k-6b6aa5173/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/RasidKhan123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
+  <a href="mailto:khanrasidrajakhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
