@@ -33,9 +33,8 @@
 ### 🔗 Connect with Me
 
 - 📧 Email: [rasidrajakhan@gmail.com](mailto:rasidrajakhan@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link) <!-- Replace with actual URL -->
-- 🌐 [Portfolio](https://your-portfolio-link.com) <!-- Optional -->
-
+- 💼 [LinkedIn](linkedin.com/in/rashid-r-k-6b6aa5173) <!-- Replace with actual URL -->
+  
 ---
 
 ### ⚙️ Tools & Technologies
