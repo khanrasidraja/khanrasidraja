@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
