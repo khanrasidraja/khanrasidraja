@@ -94,33 +94,6 @@ src/
 
 ---
 
-### ✏️ Minimal API Example
-
-```java
-@RestController
-@RequestMapping("/api/products")
-public class ProductController {
-
-  private final ProductService service;
-
-  public ProductController(ProductService service) {
-      this.service = service;
-  }
-
-  @PostMapping
-  public ResponseEntity<ProductResponse> create(@Valid @RequestBody ProductRequest req) {
-      return ResponseEntity.status(HttpStatus.CREATED).body(service.create(req));
-  }
-
-  @GetMapping("/{id}")
-  public ProductResponse findOne(@PathVariable Long id) {
-      return service.findById(id);
-  }
-}
-```
-
----
-
 ### 🧩 Component Overview
 
 ```mermaid
