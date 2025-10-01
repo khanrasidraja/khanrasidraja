@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=4F9EFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Rasid+Raja+Khan;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Clean+Code;Focused+on+Practical+Backend+Skills" alt="Typing Intro" />
 </p>
 
-<h1 align="center">👨‍💻 Java Backend Developer</h1>
+<h1 align="center">👨‍💻 Backend Developer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khanrasidraja&style=flat-square&color=0F6CBD" alt="Profile Views" />
